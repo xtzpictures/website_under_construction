@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,
+html,
+a
+
+{color: rgb(42,42,48);}
+
+.main_h a.active {color: #F0AB3F;}
+
+.bg {color: white;}
+
+.hell {
+	background-color: rgba(255,255,255,0.80);
+}
+
+.weiss {
+	background-color: white;
+    opacity: 93%
+    }
+
+.hell .button {
+	border-color: rgba(13,38,45,0.90);
+	background: rgba(245,245,245,1);
+}
