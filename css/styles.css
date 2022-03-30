@@ -69,6 +69,7 @@ h4 {
 
 .titel-ev {
 	font-size: 1em;
+    padding-bottom: 30px;
 }
 
 a {
@@ -102,6 +103,19 @@ div {
 	top: 15%;
 	z-index: 2;
 	text-shadow: 2px 2px 4px black;
+}
+
+.bg-social {
+    position: fixed;
+    width: 100%;
+    margin: auto;
+    bottom: 15%;
+    z-index: 2;
+}
+
+.bg-social img {
+    width: auto;
+    margin: 10px auto;
 }
 
 .bg-img img {
