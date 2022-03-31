@@ -102,7 +102,6 @@ div {
 	width: 100%;
 	top: 15%;
 	z-index: 2;
-	text-shadow: 2px 2px 4px black;
 }
 
 .bg-social {
@@ -114,7 +113,7 @@ div {
 }
 
 .bg-social img {
-    width: auto;
+    width: 64px;
     margin: 10px auto;
 }
 
