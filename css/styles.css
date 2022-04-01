@@ -1,8 +1,12 @@
 @charset "utf-8";
 
+@font-face { font-family: Isonorm; src: url('font/isonorm.otf'); } 
+
 * {
-	font-family: 'Encode Sans Semi Expanded', sans-serif;
-	font-weight: 400;
+	/*font-family: 'Encode Sans Semi Expanded', sans-serif;
+	font-weight: 400;*/
+    font-family: Isonorm;
+    font-size: 1.2em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -13,7 +17,6 @@
         sure the boxsizing.htc file is linked properly.
         More info here:  https://github.com/Schepp/box-sizing-polyfill */
 }
-
 
 body, html {
     height: 100%;
